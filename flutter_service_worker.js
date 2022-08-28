@@ -24,10 +24,10 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "dd3c4233029270506ecc994d67785a37",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "613e4cc1af0eb5148b8ce409ad35446d",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"main.dart.js": "b0ea1f67f60d89d44481ababa12babdb",
+"main.dart.js": "c7fb7d95a64e2f44c50ea2597f4ea478",
 "manifest.json": "afbad595473125d9919e55440bb9d114",
-"index.html": "ee56df8de590f94c37a83148fbed28e3",
-"/": "ee56df8de590f94c37a83148fbed28e3",
+"index.html": "aebc85ca7dccccdf961c5777fa4426c3",
+"/": "aebc85ca7dccccdf961c5777fa4426c3",
 "version.json": "cc132570d6d238130e38adc59e1f998d"
 };
 
