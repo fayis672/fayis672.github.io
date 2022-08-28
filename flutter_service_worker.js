@@ -17,19 +17,17 @@ const RESOURCES = {
 "assets/AssetManifest.json": "ef4c81ef1a0d434e05ecb01909c54a1b",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/NOTICES": "eb2b93c7bd61647df9b1b7c559e4ed04",
-"assets/assets/image/imag.png": "be2853a0e29cdd8eb110950d4937ec8c",
 "assets/assets/image/fayis.png": "be2853a0e29cdd8eb110950d4937ec8c",
-"assets/assets/animation/dev_anim.json": "2f41a322d8da780cf282d36c13a6807a",
 "assets/assets/animation/devAnimation.json": "2f41a322d8da780cf282d36c13a6807a",
 "assets/assets/svg/cib-flutter.svg": "8a901e17ffd0f6f444e746d42062e53c",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "d1722d5cf2c7855862f68edb85e31f88",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "dd3c4233029270506ecc994d67785a37",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "613e4cc1af0eb5148b8ce409ad35446d",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"main.dart.js": "6d9f78e737fdad7e45609e055a64373f",
+"main.dart.js": "b0ea1f67f60d89d44481ababa12babdb",
 "manifest.json": "afbad595473125d9919e55440bb9d114",
-"index.html": "ced78f967a0825e1761b6804d89eebab",
-"/": "ced78f967a0825e1761b6804d89eebab",
+"index.html": "ee56df8de590f94c37a83148fbed28e3",
+"/": "ee56df8de590f94c37a83148fbed28e3",
 "version.json": "cc132570d6d238130e38adc59e1f998d"
 };
 
