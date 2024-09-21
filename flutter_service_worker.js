@@ -58,8 +58,8 @@ const RESOURCES = {"version.json": "cc132570d6d238130e38adc59e1f998d",
 "canvaskit/chromium/canvaskit.js": "671c6b4f8fcc199dcc551c7bb125f239",
 "canvaskit/chromium/canvaskit.js.symbols": "a012ed99ccba193cf96bb2643003f6fc",
 "canvaskit/chromium/canvaskit.wasm": "b1ac05b29c127d86df4bcfbf50dd902a",
-"main.dart.js": "caa498a9292314ba1480739d12b02f10",
-"flutter_bootstrap.js": "dac5e50878b373f993ec1136c8a3f023",
+"main.dart.js": "5541c40ad228b183937001982f9831b5",
+"flutter_bootstrap.js": "99be5b242f65454321335971871c8de8",
 "favicon.ico": "bebda22c03185336a0eda4a1db858475"};
 // The application shell files that are downloaded before a service worker can
 // start.
