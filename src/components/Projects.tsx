@@ -8,7 +8,7 @@ const projects = [
         title: "Flutter Epub View",
         description: "A Flutter package for rendering Epub documents, with 1000 weekly downloads and secure architecture.",
         tech: ["Flutter", "Dart", "Android", "iOS"],
-        link: "https://pub.dev/packages/flutter_epub_view",
+        link: "https://pub.dev/packages/flutter_epub_viewer",
     },
     {
         title: "Fintech App",
