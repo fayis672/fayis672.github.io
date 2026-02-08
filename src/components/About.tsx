@@ -21,7 +21,7 @@ export default function About() {
                             Software Engineer who writes Flutter apps, secures APIs, and occasionally questions why <span className="text-zinc-900 dark:text-zinc-200 font-medium italic">semicolons</span> can ruin an entire day.
                         </p>
                         <p>
-                            With <span className="text-zinc-900 dark:text-zinc-200 font-bold">3+ years of experience</span>, I build fast, clean, and scalable mobile applications. I also dive into cybersecurity, poking at apps with <span className="text-zinc-900 dark:text-zinc-200 font-medium">Burp Suite</span> to make sure things don’t fall apart when users (or hackers 👀) get creative. And yes—AI helps me code faster… sometimes too fast.
+                            With <span className="text-zinc-900 dark:text-zinc-200 font-bold">3+ years of experience</span>, I build fast, clean, and scalable mobile applications. I also dive into cybersecurity, poking at apps to make sure things don’t fall apart when users (or hackers 👀) get creative. And yes—AI helps me code faster… sometimes too fast.
                         </p>
                         <p>
                             I love turning ideas into smooth user experiences, debugging issues that shouldn’t exist, and blending <span className="text-zinc-900 dark:text-zinc-200 font-medium">Mobile + Security + AI</span> into one powerful toolkit.
